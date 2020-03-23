@@ -1,0 +1,1 @@
+# GraphQL Typescript Auth Boilerplate 
